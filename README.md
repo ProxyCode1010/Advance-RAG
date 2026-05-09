@@ -88,4 +88,4 @@ Research papers related to CRAG and Self RAG are included inside the respective 
 
 # Purpose
 
-This project is built for learning and experimenting with advanced Retrieval-Augmented Generation architectures and improving LLM response quality using corrective and self-reflective techniques.
+This Repo is built for learning and experimenting with advanced Retrieval-Augmented Generation architectures and improving LLM response quality using corrective and self-reflective techniques.
